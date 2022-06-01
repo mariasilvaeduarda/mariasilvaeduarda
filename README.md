@@ -1,0 +1,13 @@
+# sobre mim 
+---
+
+- 👋 olá,eu sou @mariasilvaeduarda
+- 👀 Estou interessada em  ...
+- 🌱 eu estou aprendendo a programar...
+- 💞️ No tempo vago gosto de ouvir música ...
+- 📫 Vocẽ pode me contatar por(maria.jesus11@escola.pr.gov.br) ...
+
+<!---
+mariasilvaeduarda/mariasilvaeduarda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
